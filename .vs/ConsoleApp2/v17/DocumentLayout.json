@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HBGROCA\\Desktop\\Github\\.NET-WIN2024\\3. C#\\Vecka2\\Anv\u00E4ndning av Services (Service Pattern)\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38AB7B3F-E12C-4569-AE47-D2D2F9C2E2D0}|ConsoleApp2.csproj|c:\\users\\hbgroca\\desktop\\github\\.net-win2024\\3. c#\\vecka2\\anv\u00E4ndning av services (service pattern)\\consoleapp2\\services\\menudialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AB7B3F-E12C-4569-AE47-D2D2F9C2E2D0}|ConsoleApp2.csproj|solutionrelative:services\\menudialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AB7B3F-E12C-4569-AE47-D2D2F9C2E2D0}|ConsoleApp2.csproj|c:\\users\\hbgroca\\desktop\\github\\.net-win2024\\3. c#\\vecka2\\anv\u00E4ndning av services (service pattern)\\consoleapp2\\factories\\todofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AB7B3F-E12C-4569-AE47-D2D2F9C2E2D0}|ConsoleApp2.csproj|solutionrelative:factories\\todofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HBGROCA\\Desktop\\Github\\.NET-WIN2024\\3. C#\\Vecka2\\Anv\u00E4ndning av Services (Service Pattern)\\ConsoleApp2\\Factories\\ToDoFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\ToDoFactory.cs",
+              "ToolTip": "C:\\Users\\HBGROCA\\Desktop\\Github\\.NET-WIN2024\\3. C#\\Vecka2\\Anv\u00E4ndning av Services (Service Pattern)\\ConsoleApp2\\Factories\\ToDoFactory.cs",
+              "RelativeToolTip": "Factories\\ToDoFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:12:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuDialogs.cs",
+              "DocumentMoniker": "C:\\Users\\HBGROCA\\Desktop\\Github\\.NET-WIN2024\\3. C#\\Vecka2\\Anv\u00E4ndning av Services (Service Pattern)\\ConsoleApp2\\Services\\MenuDialogs.cs",
+              "RelativeDocumentMoniker": "Services\\MenuDialogs.cs",
+              "ToolTip": "C:\\Users\\HBGROCA\\Desktop\\Github\\.NET-WIN2024\\3. C#\\Vecka2\\Anv\u00E4ndning av Services (Service Pattern)\\ConsoleApp2\\Services\\MenuDialogs.cs",
+              "RelativeToolTip": "Services\\MenuDialogs.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAADwv2UBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:52:25.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
